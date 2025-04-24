@@ -94,6 +94,7 @@ def setup_qa_chain():
         ("What platforms are used in game development?", "UTECH uses Unity and Buildbox."),
         ("Do you teach using Unity or Buildbox?", "Yes, both Unity and Buildbox are part of game dev courses."),
         ("What tools do you use in AI and robotics?", "UTECH uses educational kits and software to teach AI and robotics."),
+        ("Any group for queries and help desk?", "https://chat.whatsapp.com/Bj4z0v9mEuA6BnG8IdxYu7"),
     ]
 
     # Combine static UTECH data with FAQs into documents
