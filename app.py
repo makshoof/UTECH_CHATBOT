@@ -8,7 +8,7 @@ import os
 import streamlit as st
 
 # Set your Groq API key
-os.environ["GROQ_API_KEY"] = "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"  # Replace with your actual key
+os.environ["GROQ_API_KEY"] = "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"  # Replace with your actual key
 
 st.set_page_config(page_title="Smart Utech Chatbot 🤖", layout="wide")
 
@@ -110,7 +110,7 @@ def setup_qa_chain():
     llm = ChatGroq(
     temperature=0.3,
     model_name='llama3-70b-8192',  # Ensure this is provided if it's required
-    api_key='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'  # Also ensure API key is included if required
+    api_key='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'  # Also ensure API key is included if required
 )
 
     return RetrievalQA.from_chain_type(llm=llm, retriever=retriever)
