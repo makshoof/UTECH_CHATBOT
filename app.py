@@ -137,7 +137,7 @@ elif campus == "NED University":
 course = st.selectbox("Select Course 📚", courses)
 if course:
     st.success(f"You selected: {option} > {campus if campus else 'Online'} > {course}")
-    contact_number = "📞 Contact: +92 321 UTECH ONLINE" if option == "Online" else "📞 Contact: +92 321 UTECH ONSITE"
+    contact_number = "📞 Contact: +92 317 1719466, +92 316 1258459 if option == "Online" else "📞 Contact: +92 317 1719466, +92 316 1258459"
     st.info(contact_number)
 
 # Step 3: User Questions & Answers
