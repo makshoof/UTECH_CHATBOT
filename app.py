@@ -44,9 +44,9 @@ def setup_qa_chain():
         - For Youngsters (ages 7–17)
 
         📞 Contact Numbers:
-        - F-90 Campus: +92 321 UTECH KHI
-        - NED Campus: +92 321 UTECH ONSITE
-        - Online Courses: +92 321 UTECH ONLINE
+        - F-90 Campus: +92 317 1719466, +92 316 1258459
+        - NED Campus: +92 317 1719466, +92 316 1258459
+        - Online Courses: +92 317 1719466, +92 316 1258459
 
         Founder:
         - Unais Ali
